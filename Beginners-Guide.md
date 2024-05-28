@@ -89,6 +89,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ### Anti-virus
 
 **[VirusTotal](https://www.virustotal.com) / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
+**[Hatching Triage](https://hatching.io/triage)** - Malware sandbox
 **[VTGuide](https://rentry.co/VTGuide)** - Virus scan results guide
 **[Malwarebytes Premium](https://rentry.co/FMHYBase64#malwarebytes-prem)** - Antivirus software
 
